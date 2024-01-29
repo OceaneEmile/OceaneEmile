@@ -11,20 +11,20 @@ OceaneEmile/OceaneEmile
 - 😄 Pronouns: Océ
 - ⚡ Fun fact: ...
 
-![HTML5 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg){:width="50"}
+![HTML5 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg =50x)
 
-![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){:width="100"}
+![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =100x)
 
-![GitHub Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+![GitHub Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg =50x)
 
-![PHP Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+![PHP Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg =50x)
 
-![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)
+![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg =50x)
 
-![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
+![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg =50x)
 
-![Symfony Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg)
+![Symfony Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg =50x)
 
-![Laravel Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg)
+![Laravel Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg =50x)
 
-![Bootstrap Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg)
+![Bootstrap Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg =50x)
