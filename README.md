@@ -5,7 +5,7 @@ OceaneEmile/OceaneEmile
 
 - 🔭 I’m currently looking for an internship from 24th February.
 - 🌱 I’m currently learning Symfony Framework.
-- My future project : Create a Website for people who can to share there tips, DIY hacks and where people can rate.
+- My future project : I attend to create a website where DIY enthusiasts can share creations and tips.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50">
