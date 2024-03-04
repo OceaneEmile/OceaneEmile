@@ -3,7 +3,7 @@
 OceaneEmile/OceaneEmile
 
 
-- 🔭 I’m currently looking for an internship from 29th February.
+- 🔭 I’m currently looking for an internship from 15th March.
 - 🌱 I’m currently learning Symfony Framework.
 - My future project : I attend to create a website where DIY enthusiasts can share creations and tips.
 
